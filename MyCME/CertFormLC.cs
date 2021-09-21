@@ -7,7 +7,7 @@ using Aptify.Framework.Application;
 using Aptify.Framework.DataServices;
 using Aptify.Framework.ExceptionManagement;
 using Aptify.Framework.WindowsControls;
-namespace ACSPreviewCertificate
+namespace ACSPreviewCertificate 
 {
     class CertFormLC : FormTemplateLayout
     {
