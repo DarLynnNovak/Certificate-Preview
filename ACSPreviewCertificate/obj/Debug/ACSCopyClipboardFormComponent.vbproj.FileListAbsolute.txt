@@ -1,0 +1,5 @@
+C:\Code VB\ACSCopyClipboard\ACSCopyClipboardFormComponent\obj\Debug\ACSCopyClipboardFormComponent.vbprojAssemblyReference.cache
+C:\Code VB\ACSCopyClipboard\ACSCopyClipboardFormComponent\obj\Debug\ACS.Framework.FormComponents.CopyClipboard2.resources
+C:\Code VB\ACSCopyClipboard\ACSCopyClipboardFormComponent\obj\Debug\ACS.Framework.FormComponents.Resources.resources
+C:\Code VB\ACSCopyClipboard\ACSCopyClipboardFormComponent\obj\Debug\ACSCopyClipboardFormComponent.vbproj.GenerateResource.cache
+C:\Code VB\ACSCopyClipboard\ACSCopyClipboardFormComponent\obj\Debug\ACSCopyClipboardFormComponent.vbproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+C:\Program Files\Aptify 6.0 - Prod\ACSMyCMEFormDLLs.dll
+C:\Program Files\Aptify 6.0 - Prod\ACSMyCMEFormDLLs.pdb
+C:\Code CSharp\ACSPreviewCertificate\MyCME\obj\Aptify Prod 6\ACSPreviewCertificate.csprojAssemblyReference.cache
+C:\Code CSharp\ACSPreviewCertificate\MyCME\obj\Aptify Prod 6\ACSMyCMEFormDLLs.UniqueIdFrm.resources
+C:\Code CSharp\ACSPreviewCertificate\MyCME\obj\Aptify Prod 6\ACSMyCMEFormDLLs.Properties.Resources.resources
+C:\Code CSharp\ACSPreviewCertificate\MyCME\obj\Aptify Prod 6\ACSPreviewCertificate.csproj.GenerateResource.cache
+C:\Code CSharp\ACSPreviewCertificate\MyCME\obj\Aptify Prod 6\ACSPreviewCertificate.csproj.CoreCompileInputs.cache
+C:\Code CSharp\ACSPreviewCertificate\MyCME\obj\Aptify Prod 6\ACSMyCMEFormDLLs.dll
+C:\Code CSharp\ACSPreviewCertificate\MyCME\obj\Aptify Prod 6\ACSMyCMEFormDLLs.pdb

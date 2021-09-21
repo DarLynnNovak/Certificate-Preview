@@ -1,0 +1,10 @@
+C:\Program Files\Aptify 6.0 - Test\ACSPreviewCertificate.dll
+C:\Program Files\Aptify 6.0 - Test\ACSPreviewCertificate.pdb
+C:\Code CSharp\ACSPreviewCertificate\MyCME\obj\Aptify Test 6\ACSPreviewCertificate.csprojAssemblyReference.cache
+C:\Code CSharp\ACSPreviewCertificate\MyCME\obj\Aptify Test 6\ACSPreviewCertificate.csproj.GenerateResource.cache
+C:\Code CSharp\ACSPreviewCertificate\MyCME\obj\Aptify Test 6\ACSPreviewCertificate.csproj.CoreCompileInputs.cache
+C:\Code CSharp\ACSPreviewCertificate\MyCME\obj\Aptify Test 6\ACSPreviewCertificate.dll
+C:\Code CSharp\ACSPreviewCertificate\MyCME\obj\Aptify Test 6\ACSPreviewCertificate.pdb
+C:\Code CSharp\ACSPreviewCertificate\MyCME\obj\Aptify Test 6\ACSPreviewCertificate.Properties.Resources.resources
+C:\Code CSharp\ACSPreviewCertificate\MyCME\obj\Aptify Test 6\ACSPreviewCertificate.UniqueIdFrm.resources
+C:\Code CSharp\ACSPreviewCertificate\MyCME\obj\Aptify Test 6\ACSPreviewCertificate.csproj.CopyComplete
